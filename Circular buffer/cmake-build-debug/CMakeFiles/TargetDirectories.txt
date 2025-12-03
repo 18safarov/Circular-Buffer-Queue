@@ -1,0 +1,3 @@
+C:/coding/c++/projects/Circular buffer/cmake-build-debug/CMakeFiles/Circular_buffer.dir
+C:/coding/c++/projects/Circular buffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/coding/c++/projects/Circular buffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
