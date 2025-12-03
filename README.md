@@ -1,8 +1,8 @@
 # Circular Queue Implementation in C++
 
-This project implements a **Queue** data structure using a dynamic array and **Circular Buffer** logic. Unlike a standard array-based queue, this implementation does not require shifting elements upon removal, ensuring efficient performance.
+This project implements a **Queue** data structure using a dynamic array and **Circular Buffer** logic.
 
-## 🚀 Features
+## Features
 
 * **Circular Buffer Logic:** Efficient utilization of space. When the tail reaches the end of the array, it wraps around to the beginning using modulo arithmetic.
 * **Dynamic Memory Management:** The queue size is determined at runtime.
@@ -11,7 +11,7 @@ This project implements a **Queue** data structure using a dynamic array and **C
     * Enqueue (`pushBack`): $O(1)$
     * Dequeue (`popFront`): $O(1)$
 
-## 🛠️ Methods Implemented
+## Methods Implemented
 
 * `pushBack(int value)`: Adds an element to the back of the queue.
 * `popFront()`: Removes an element from the front.
